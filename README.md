@@ -146,7 +146,6 @@ _tx_ is not part of _b_.
 
 A more detailed explanation of the inner workings can be found [here](https://dsg.tuwien.ac.at/projects/tast/pub/tast-white-paper-6.pdf).
 
-
 ### Wrong Compiler Version
 
 ```text
